@@ -18,7 +18,7 @@
 
 - GitHub: [@github](https://github.com/Zelalem1222)
 - Twitter: [@twitter](https://twitter.com/Zelalem52236790)
-- LinkedIn: [LinkedIn](https://twitter.com/Zelalem52236790)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/zelalemfissha/)
 
 
 
@@ -27,7 +27,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Zelalem1222/Budget-app/issues).
+Feel free to check the [issues page](https://github.com/Zelalem1222/Simon-game/issues).
 
 ## Show your support
 
